@@ -1,0 +1,4 @@
+interface:
+  display_name: "报告修订对照"
+  short_description: "比较两版Word或文本PDF，交付带原页修订标记与文字审阅的离线HTML"
+  default_prompt: "使用 $report-revision-comparison 比较这两版报告，沿用当前界面交付离线HTML修订对照。"

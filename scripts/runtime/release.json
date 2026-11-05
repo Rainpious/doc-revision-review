@@ -1,0 +1,63 @@
+{
+  "release": "v1.16",
+  "source_project": "C:\\Users\\waver\\Documents\\ChatGPT\\Nolva\\work\\report-revision-html",
+  "distribution": "Pinned runtime release; develop in source project, update this distribution as one versioned release.",
+  "files": [
+    {
+      "path": "revision_tool.py",
+      "sha256": "e2253aaba00989837c99a5925fd5c9fe1b9d5a2315ecdaad5f37f7d1ea1828ee"
+    },
+    {
+      "path": "interactive.py",
+      "sha256": "d992533abd504800f7bf9f72aa24571685973860dec50f72962c110c3a59686e"
+    },
+    {
+      "path": "docx_input.py",
+      "sha256": "3265ba2076f14eb3fc5d041feecb5901b8db4662cb73ca880292f2d80202e956"
+    },
+    {
+      "path": "pdf_input.py",
+      "sha256": "cd1d7647028351a1549ddcfcd0b79b6253dace1dbabbaa171a939ab87237afd2"
+    },
+    {
+      "path": "pdf_glyphs.py",
+      "sha256": "30bc669b8fffa84fac13acc94ab7b29941cc8186cb786843c8fb65f26569f119"
+    },
+    {
+      "path": "annotations.py",
+      "sha256": "ba002e3212c788a50873d2e4923b24936381ab7d12e1856b958f23f9d442dac6"
+    },
+    {
+      "path": "word_to_pdf.ps1",
+      "sha256": "6bc4ee83ffd1dc097046868d301e30a343bc69f7e3e370b74c25111c4ca4f650"
+    },
+    {
+      "path": "requirements.txt",
+      "sha256": "8e3c58012860b12b1bf44ce612e8c1f26d59904d71a8e8c878d56fb37f441549"
+    },
+    {
+      "path": "viewer/app.js",
+      "sha256": "39a8fb8f5a0548513ca419856a027e0354c7279f8dde55df7e3caf0a8723d27f"
+    },
+    {
+      "path": "viewer/app.css",
+      "sha256": "e2aad8eea26b667cc3fe234dbb8cc0eae5676aa5329cea15db9628632c817f26"
+    },
+    {
+      "path": "viewer/engine.js",
+      "sha256": "7b1083ff4eb27dfde759146505062acb302ca74590ea5faac58d21735a0c6baf"
+    },
+    {
+      "path": "schema/build_schema.py",
+      "sha256": "8a4a16685874628478567f264a59d07837e95457f66cb59f063d58007b5c2d08"
+    },
+    {
+      "path": "schema/package.schema.json",
+      "sha256": "5237e1049327fe93778e97908abce0d56020fdc1784f4c6ed7d54fb31331f3a0"
+    },
+    {
+      "path": "viewer/baseline.css",
+      "sha256": "8c8e3bec432dfa907f45c57fb8a0bc262abd8b767e97ff85959d0dca08f20fc0"
+    }
+  ]
+}
